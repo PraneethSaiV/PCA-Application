@@ -4,7 +4,7 @@ Contains an R - shiny application that currently runs on the local host (webrgl 
 does not output the 3D PCA plot). 
 
 <h2>Application features:</h2>
-1. Interactive 3D PCA plot
+1. Interactive 3D PCA plot</br>
 2. Interactive Heat map
 3. Clustering on Heat map (added as a feature)
 
