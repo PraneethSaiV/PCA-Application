@@ -5,12 +5,12 @@ does not output the 3D PCA plot).
 
 <h2>Application features:</h2>
 1. Interactive 3D PCA plot</br>
-2. Interactive Heat map
-3. Clustering on Heat map (added as a feature)
+2. Interactive Heat map</br>
+3. Clustering on Heat map (added as a feature)</br>
 
 <h2>Dependencies:</h2>
-shiny
-shinyRGL
-pca3d
-svglite
-pheatmap
+shiny</br>
+shinyRGL</br>
+pca3d</br>
+svglite</br>
+pheatmap</br>
